@@ -1,3 +1,5 @@
+// TODO: Create modules
+
 if (window.addEventListener) {
   window.addEventListener('mousewheel', MouseWheel, false);
   window.addEventListener('DOMMouseScroll', MouseWheel, false);
